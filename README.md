@@ -1,0 +1,2 @@
+# secure-chat-app
+ Overview: The Secure Chat Application is designed to provide users with a safe and private communication platform. By implementing end-to-end encryption (E2EE), this application ensures that messages are securely transmitted between users without being accessible to unauthorized parties. The use of robust encryption methods, including Diffie-Hellman key exchange and AES-256 encryption, guarantees that only the intended recipients can read the messages.
